@@ -1,1 +1,1 @@
-yzuCourse
+# YZU-Mobile-Application-Programming
